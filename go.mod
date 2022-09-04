@@ -1,3 +1,3 @@
-module github.com/muhammadmuzzammil1998/jsonc/v1
+module github.com/ddliu/jsonc
 
-go 1.17
+go 1.18
